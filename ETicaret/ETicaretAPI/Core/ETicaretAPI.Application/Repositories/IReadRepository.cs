@@ -5,9 +5,9 @@ namespace ETicaretAPI.Application.Repositories
 {
     public interface IReadRepository<T> : IRepository<T> where T : BaseEntity
     {
-        IQueryable<T> GetAll();
-        IQueryable<T> GetWhere(Expression<Func<T,bool>> method);
-        Task<T> GetSingleAsync(Expression<Func<T,bool>> method);
-        Task<T> GetByIdAsync(string id);
+        IQueryable<T> GetAll(bool trackig = true);
+        IQueryable<T> GetWhere(Expression<Func<T,bool>> method, bool trackig = true);
+        Task<T> GetSingleAsync(Expression<Func<T,bool>> method, bool trackig = true );
+        Task<T> GetByIdAsync(string id, bool trackig = true);
     }
 }

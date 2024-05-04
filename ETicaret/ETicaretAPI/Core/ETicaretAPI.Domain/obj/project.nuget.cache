@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YLoOvP1/MzLhNQicBKHOsAmFAma0paRNa1tFwGFp66XgNe6W/yeter0bL0x2okXibcGY7vIlbYJX6qtnyx4yQ==",
+  "dgSpecHash": "ngEmRFh78VnpdZVB6LLTJYUd1nbECotfqz7qTCVjDUAB7xxRaz1FYtpbvHDBswi7q2IQX/vZAmOZGPnemXRwBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\dilek\\source\\repos\\ETicaret\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
