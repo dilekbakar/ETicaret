@@ -67,8 +67,7 @@
               "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:01:45.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:01:45.45Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:01:36.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:01:36.353Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:01:27.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:01:27.147Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Infrastructure\\ETicaretAPI.Persistence\\Contexts\\ETicaretAPIDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:45:16.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:45:16.676Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Core\\ETicaretAPI.Domain\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:41:18.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:41:18.835Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowBcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T09:23:02.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T09:23:02.803Z"
             }
           ]
         }
